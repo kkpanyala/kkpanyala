@@ -14,3 +14,4 @@ Replit: [@TheAwesomeKid02](https://replit.com/@TheAwesomeKid02)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kkpanyala&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kkpanyala&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kkpanyala&theme=github_dark)<br/>
+[![github-stats-card](https://stats-card.pages.dev/lang?user=kkpanyala&layout=compact&type=donut&theme=github_dark)](https://github.com/kkpanyala/github-stats-card)
